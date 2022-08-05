@@ -4,7 +4,7 @@
 
 ## Unity Plugin
 
-### CameraShot for Unity
+### Camera Image Capture
 
 A unity plugin to capture camera image and save to a specified path.
 
