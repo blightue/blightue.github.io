@@ -10,6 +10,6 @@ A unity plugin to capture camera image and save to a specified path.
 
 Asset store
 
-Documentation
+[Documentation](https://github.com/blightue/CameraImageCapture/wiki)
 
-Source Code
+[Source Code](https://github.com/blightue/CameraImageCapture)
